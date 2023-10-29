@@ -29,7 +29,7 @@
 #### Open to Collaboration:
 
 I'm enthusiastic about collaborating on projects related to data analysis and innovation. Feel free to connect with me on
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](www.linkedin.com/in/mu-az-ibrahim-4576b4191) for discussions, collaborations, or advice on data-driven business solutions.
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mu-az) for discussions, collaborations, or advice on data-driven business solutions.
 
 #### Let's Innovate Together!
 
