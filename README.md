@@ -4,8 +4,9 @@
 
 ### Skills:
 👨‍💻
-- **Data Analysis:** Python, SQL, 📊
-- **Business Intelligence:** Excel, PowerBI, 📈
+- **Advance Python for Data Analytics/Science** ,📊
+- **Advance SQL Data Analytics** 🔦
+- **Advance Excel and PowerBI for Business Intelligence**  📈
 - **Web3 Development:** Solidity, 🌐
 - **Blockchain:** Ethereum, Smart Contracts, 🧱
 - **Innovation:** Problem-solving, Creativity 💡
